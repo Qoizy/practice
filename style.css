@@ -1,0 +1,39 @@
+/* h1 {
+  color: green;
+}
+
+.mide {
+  color: blue;
+  text-align: center;
+  font-size: 20px;
+}
+
+#css {
+  text-align: right;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+[src] {
+  color: aliceblue;
+}
+
+img [src="asset/Logo.png"] {
+  color: antiquewhite;
+}
+
+p [class~="welcome"] {
+  color: black;
+}
+
+.btn {
+  background-color: grey;
+  align-items: center;
+  text-decoration: none;
+  font-size: 30px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  color: blue;
+} */
